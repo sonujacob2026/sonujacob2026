@@ -11,8 +11,7 @@
 
 ### 🚀 Projects I'm Working On
 - 🧾 Currently building an **Expense Tracker** app
-- 📊 Previously built **CarWorls** – an e-commerce site for car accessories (Core PHP + MySQL + Razorpay)
-- 💡 Minor Project: **Personalized Learning Recommender System**
+- 📊 Previously built **CarWorld** – an e-commerce site for car accessories (Core PHP + MySQL + Razorpay)
 - 💧 Internship Project: **Water Purification using ML & Data Analytics** (ICFOSS, Trivandrum)
 
 ---
